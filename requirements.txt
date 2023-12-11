@@ -3,3 +3,4 @@ json
 re
 base64
 urllib
+unidecode
